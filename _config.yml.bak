@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 复旦大学网络虚拟环境与计算机应用
-email: your-email@domain.com
+title: 复旦大学
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://AdWeb_walker.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://vrwalker.github.io/" # the base hostname & protocol for your site
+twitter_username:
 github_username:  VRwalker
 
 # Build settings
