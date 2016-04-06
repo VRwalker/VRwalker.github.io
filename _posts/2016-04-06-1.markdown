@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "作业选题说明"
+date:   2016-04-06 13:48:34 +0800
+categories: jekyll update
+---
+
+## 1.打开[http://web.gleasy.com/](http://web.gleasy.com/)，输入账号：admin@vrwalker    密码：123456 ##
+
+<img src="img/1.png" >
+
+## 2.选择office->表格 ##
+
+<img src="img/2.png" >
+
+## 3.文件->打开 ##
+
+<img src="img/3.png" >
+
+## 4.选择相应的表格进行选题然后保存，每个同学选择两个题目，每个题目最多8个人选择 ##
+
+<img src="img/4.png" >
