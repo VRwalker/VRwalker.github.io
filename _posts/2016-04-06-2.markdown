@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "使用github提交作业说明"
+date:   2016-04-06 13:48:34 +0800
+categories: jekyll update
+---
+## 1.注册一个github账号，[github的简介](http://baike.baidu.com/link?url=ISkum5nxVUziy1QMxDFFDEKeNsCM9rn4xymPOiwUSziu1AnJ3GjkoDvign9-fyXr4tE_Wtcyl1oGKD_NfblF6K)，大家了解即可，我们只是用她进行作业提交。注册地址：[https://github.com/](https://github.com/) ##
+
+![](/img/5.png)
+
+## 2.登入github之后，打开：[https://github.com/VRwalker/vrwalker.git](https://github.com/VRwalker/vrwalker.git)，点击右上角的Fork，然后我会邀请你合作这个项目，系统会发一封邮件到你们的注册。 ##
+
+![](/img/6.png)
+
+## 3.打开邮件接收邀请，然后点击upload就可以上传文件。文件命名格式：学号-姓名 ##
+
+![](/img/7.png)
+
+![](/img/8.png)
+
+## 4.有些同学可能需要合作来完成作业，为大家建立一个微信群，提供一个交流的平台。 ##
+
+![](/img/9.png)

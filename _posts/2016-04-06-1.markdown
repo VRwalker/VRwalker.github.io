@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "作业选题说明"
+title:  "Gleasy使用说明"
 date:   2016-04-06 13:48:34 +0800
 categories: jekyll update
 ---
@@ -20,3 +20,5 @@ categories: jekyll update
 ## 4.选择相应的表格进行选题然后保存，每个同学选择两个题目，每个题目最多8个人选择 ##
 
 ![](/img/4.png)
+
+## 如有疑问请联系邮箱：15212010025@fudan.edu.cn ##
