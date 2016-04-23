@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "出题优登入说明"
+date:   2016-04-24 01:48:34 +0800
+categories: jekyll update
+---
+## [cty.zuvio.com.cn](http://cty.zuvio.com.cn) ##
+
+# 用户名：你的复旦邮箱  #
+
+# 密码：123 #
+
+## [android app下载](http://apk.hiapk.com/appinfo/com.zuvio.student/49) ##
+
+## [ios app下载](http://itunes.apple.com/tw/app/chuti-you/id1087001414?mt-8) ##
