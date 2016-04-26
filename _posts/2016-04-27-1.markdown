@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "作业提交说明（新）"
+date:   2016-04-27 01:01:34 +0800
+categories: jekyll update
+---
+#### 之前是准备让大家提交到github，然后助教进行整理成gitbook。老师现在要求大家直接在gitbook上进行编辑，戴老师也会在上面提供一些电子版教材，和大家共同编辑这本书。等课程结束后，大家提交的作业将会以一本书的方式呈现出来。[https://vrwalker.gitbooks.io/vrwalker/content/](https://vrwalker.gitbooks.io/vrwalker/content/) ####
+
+### 1.注册gitbook的账号[https://www.gitbook.com/](https://www.gitbook.com/)，也可以用之前大家注册的github账号进行登录。 ###
+
+### 2.然后打开[https://www.gitbook.com/book/vrwalker/vrwalker/details](https://www.gitbook.com/book/vrwalker/vrwalker/details)，然后点击右边的Subscribe，之后助教会邀请大家共同编辑这本书，大家就可以提交作业了。 ###
+
+### 3.安装本地gitbook editor，官网下载地址[https://www.gitbook.com/editor](https://www.gitbook.com/editor)，可能下载会比较慢，助教提供百度云的下载链接，[Download for windows](http://pan.baidu.com/s/1kVjJM79)，[Download for OS X](http://pan.baidu.com/s/1qY3mySG)。打开gitbook客户端并登陆。 ###
+
+### 4.登陆成功后，点击右上角的Gitbook.com,然后选择相应的书籍（助教在没邀请之前没有相应的书籍显示）。 ###
+
+![](/img/10.png)
+
+### 在自己所选的题目下点击右键选择New Article，命名格式为学号-姓名。 ###
+
+![](/img/11.png)
+
+![](/img/12.png)
+
+### 然后双击自己新建的Article，点击Create File。 ###
+
+### GitBook使用[Markdown语法](http://wowubuntu.com/markdown/)（大家可以简单了解一下）书写，下面介绍编辑面板：  ###
+
+![](/img/13.png)
+
+### 每次写完请记得点击Sync按钮将增加或修改的内容提交到远程仓库里。建议大家的作业最好在本地备份一份。 ###
+
+### 5.课程的微信群，有任何疑问欢迎讨论。 ###
+
+![](/img/14.png)
