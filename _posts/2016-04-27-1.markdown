@@ -28,7 +28,7 @@ categories: jekyll update
 
 ![](/img/13.png)
 
-### 每次写完请记得点击Sync按钮将增加或修改的内容提交到远程仓库里。建议大家的作业最好在本地备份一份。 ###
+### 每次写完请记得点击Sync按钮将增加或修改的内容提交到远程仓库里。然后可以在线看下作业时候提交成功[https://vrwalker.gitbooks.io/vrwalker/content/](https://vrwalker.gitbooks.io/vrwalker/content/)。建议大家的作业最好在本地备份一份。 ###
 
 ### 5.课程的微信群，有任何疑问欢迎讨论。 ###
 
